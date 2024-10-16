@@ -1,0 +1,15 @@
+{
+  "TY_DEVICE_N_ID": "c6d9fae214f14e8aadb263f5a4740f67",
+  "TY_SESSION_N_ID": "06746b4b56ea49d182b6273d7fc5bd34|1729077679884|1729077879331",
+  "__ty_crs_page_events": "c6d9fae214f14e8aadb263f5a4740f67",
+  "app_language": "\"zh-CN\"",
+  "color": "\"#1677ff\"",
+  "content_width": "\"Fluid\"",
+  "fixed_header": "false",
+  "isOpenAuthCode": "true",
+  "isOpenEncrypt": "true",
+  "isOpenSmsCode": "true",
+  "layout": "\"topmenu\"",
+  "nav_theme": "\"light\"",
+  "weak": "false"
+}

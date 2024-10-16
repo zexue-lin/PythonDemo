@@ -1,0 +1,13 @@
+
+{python:S101 "eRename class "GPT_warpper" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Õ×³C
+=python:S14810"%Remove the unused local variable "i".(å¯¦ù
+Bpython:S14813"%Remove the unused local variable "i".(‚¤÷‡üÿÿÿÿ
+qpython:S3776J"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ËíÜµÿÿÿÿÿ
+Qpython:S1135N"4Complete the task associated to this "TODO" comment.(¾¬ëşÿÿÿÿ
+Qpython:S1135^"4Complete the task associated to this "TODO" comment.(Áü˜ôûÿÿÿÿ
+Lpython:S1135…"4Complete the task associated to this "TODO" comment.(¯¢²
+tpython:S117¦"\Rename this parameter "LogitsProcessors" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¥ÙÙ
+vpython:S117¥"YRename this parameter "LogitsWarpers" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÏÄïÌúÿÿÿÿ
+~python:S117á"aRename this local variable "logitsProcessors" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸÛùÑÿÿÿÿÿ
+vpython:S117ä"^Rename this local variable "logitsWarpers" to match the regular expression ^[_a-z][a-z0-9_]*$.(æ—ÿ
+mpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(†ô•Ğ

@@ -1,0 +1,5 @@
+{
+    "Access-Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjkwNzA3MTEsInVzZXJfbmFtZSI6IjE1NzY3MzQ1MzExIiwiYXV0aG9yaXRpZXMiOlsiY2FtcHVzUmVjcnVpdG1lbnQiXSwianRpIjoiMmNhMTFiZTYtMmU5Ny00NjM2LWIyYzctMzFmMmVlYjMzY2FmIiwiY2xpZW50X2lkIjoid2ViYXBwIiwic2NvcGUiOlsieHgiXX0.sQRgsEf1Etl_Lg8w1s7_AHJDDXKX0zxX8dFIPNy2za0",
+    "login_roles": "campus",
+    "token_expired": "false"
+}
